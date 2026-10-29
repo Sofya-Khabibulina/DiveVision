@@ -1,6 +1,7 @@
-# **USER PERSONA**     ![](images/coach.png)
+# **USER PERSONA**     
 
 ## **Анна Александровна Петрова, 42 года**
+![](images/coach.png)
 
 **Тренер по прыжкам в воду**
 
