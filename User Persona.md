@@ -1,4 +1,4 @@
-# **USER PERSONA** 
+# **USER PERSONA**     ![](images/coach.png)
 
 ## **Анна Александровна Петрова, 42 года**
 
