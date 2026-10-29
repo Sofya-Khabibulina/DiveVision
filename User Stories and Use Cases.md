@@ -13,9 +13,9 @@
 
 ## **Use Cases**
 
-![].(images/use cases.png)
+![] (images/use cases.png)
 
-# 
+#
 
 # **Сценарии использования (Use Cases)**
 
